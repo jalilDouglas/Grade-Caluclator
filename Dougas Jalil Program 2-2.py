@@ -1,10 +1,3 @@
-# Jalil Douglas
-#DSCI 1530--Computational Thinking and Programming
-#Program No.0
-#Name of Program -- Program Assignment 2 Program No.2
-#Student's grade
-# Due 2/15/2019
-
 #What was the lowest grade you could've possibly get
 lowGrade = float(input ("\nWhat was the lowest grade on the test? \n\n"))
 #What was the grade you recieved
